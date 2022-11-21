@@ -39,8 +39,8 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - whether the tweet was flagged by Twitter as possibly sensitive 
 - the language in which the tweet was posted
 
-[^1]: https://docs.tweepy.org/en/stable/api.html #++++++++++++++++++++++++++++++
-[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). An integrated national scale SARS-CoV-2 genomic surveillance network. The Lancet Microbe, 1(03), e99–e100. https://doi.org/10.1016/s2666-5247(20)30054-9  
-
 ## Future use
 This tool was able to run in November 2022, but cannot be guaranteed to be compatible with Twitter systems in the future.
+
+[^1]: Roesslein, J. (2020). Tweepy: Twitter for Python! https://github.com/Tweepy/Tweepy
+[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). An integrated national scale SARS-CoV-2 genomic surveillance network. The Lancet Microbe, 1(03), e99–e100. https://doi.org/10.1016/s2666-5247(20)30054-9  
