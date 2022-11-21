@@ -1,5 +1,5 @@
 # Extraction of tweets from COG-UK November 2022
-** In light of events at Twitter in November 2022 and fear of the loss of historical evidence, this script was written for [WhatIsBiotechnology](https://www.whatisbiotechnology.org/index.php/), using tools from the Python library [Tweepy](https://docs.tweepy.org/en/stable/api.html)[^1], to extract tweets posted by members of the [COVID-19 Genomics UK Consortium](https://www.cogconsortium.uk/)[^2] from the start of the COVID-19 pandemic.**
+**In light of events at Twitter in November 2022 and fear of the loss of historical evidence, this script was written for [WhatIsBiotechnology](https://www.whatisbiotechnology.org/index.php/), using tools from the Python library [Tweepy](https://docs.tweepy.org/en/stable/api.html)[^1], to extract tweets posted by members of the [COVID-19 Genomics UK Consortium](https://www.cogconsortium.uk/)[^2] from the start of the COVID-19 pandemic.**
 
 The script also includes:
 - a config file, in which the access keys and tokens needed for a User to access the Twitter API are stated.
