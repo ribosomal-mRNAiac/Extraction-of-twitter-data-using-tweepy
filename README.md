@@ -6,9 +6,9 @@ The script also includes:
 - a CSV file containg the handles of the Twitter Users desired to be extracted.
 
 Attributes from the tweet status items outputted by the tweepy command are compiled and outputted into a TSV file for each individual Twitter User with columns corresponding to:
-- the tweet_id
+- the tweet id number
 - the User's name 
-- the User's twitter id 
+- the User's twitter id number
 - the User's twitter handle
 - the date and time at which each tweet was created
 - the full text of each tweet
