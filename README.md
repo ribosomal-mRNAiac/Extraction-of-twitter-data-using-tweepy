@@ -13,13 +13,13 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - the date and time at which each tweet was created
 - the full text of each tweet
 - hashtags included in the tweet
-- other twitter users mentioned in the tweet
+- other Twitter Users mentioned in the tweet
 - the type and hyperlinks to any media included in the tweet
 - whether the tweet was in reply to another Twitter User
 - the id number of any original tweet the User's tweet was in reply to
 - the full text of any original tweet the User's tweet was in reply to
 - whether the User's tweet was a retweet (RT for retweet, QT for quote tweets) 
-- the handle of the user retweeted 
+- the handle of the User retweeted 
 - the id number of the original tweet retweeted
 - the full text of the original tweet retweeted
 - the the date and time at which the original tweet retweeted was created
@@ -32,7 +32,7 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - whether the user is witheld in any countries
 - the [geo-tag status](https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/geo) of the tweet
 - the coordinates at which a tweet was posted 
-- the (place) location at which a tweet was posted
+- the location(place) at which a tweet was posted
 - other contributors to the tweet
 - the number of retweets a tweet recieved 
 - the number of likes(favourites) a tweet recieved
