@@ -3,8 +3,8 @@
 
 ## Inputs
 To work, **tweepy.usertimeline_extraction.py** requires two additional input files:
-- a config file, in which the access keys and tokens needed for a User to access the Twitter API are stated.
-- a CSV file containg the handles of the Twitter Users desired to be extracted.
+- a config file, in which the access keys and tokens needed for a User to access the Twitter API are stated
+- a CSV file containg the handles of the Twitter Users desired to be extracted
 
 ## Outputs
 Attributes from the tweet status items outputted by the tweepy command are compiled and outputted into a TSV file for each individual Twitter User with columns corresponding to:
