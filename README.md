@@ -15,7 +15,7 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - hashtags included in the tweet
 - other twitter users mentioned in the tweet
 - the type and hyperlinks to any media included in the tweet
-- whether the tweet was in reply to another twitter user
+- whether the tweet was in reply to another Twitter User
 - the id number of any original tweet the User's tweet was in reply to
 - the full text of any original tweet the User's tweet was in reply to
 - whether the User's tweet was a retweet (RT for retweet, QT for quote tweets) 
