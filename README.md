@@ -18,7 +18,7 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - whether the tweet was in reply to another twitter user
 - the id number of any original tweet the User's tweet was in reply to
 - the full text of any original tweet the User's tweet was in reply to
-- if the User's tweet was a retweet (RT for retweet, QT for quote tweets) 
+- whether the User's tweet was a retweet (RT for retweet, QT for quote tweets) 
 - the handle of the user retweeted 
 - the id number of the original tweet retweeted
 - the full text of the original tweet retweeted
