@@ -1,5 +1,5 @@
 # Extraction of tweets from COG-UK November 2022
-**In light of events at Twitter in November 2022 and fear of the loss of historical evidence, this script was written for [WhatIsBiotechnology](https://www.whatisbiotechnology.org/index.php/), using tools from the Python library [Tweepy](https://docs.tweepy.org/en/stable/api.html)[^1], to extract tweets posted by members of the [COVID-19 Genomics UK Consortium](https://www.cogconsortium.uk/)[^2] from the beginning of the COVID-19 pandemic.**
+**In light of events at Twitter in November 2022 and fear of the loss of historical evidence, this script was written for [WhatIsBiotechnology](https://www.whatisbiotechnology.org/index.php/), using tools from the Python library [Tweepy](https://docs.tweepy.org/en/stable/api.html)[^1], to extract tweets posted by members of the [COVID-19 Genomics UK Consortium](https://www.cogconsortium.uk/)[^2] from the beginning of the COVID-19 Pandemic.**
 
 The script also includes:
 - a config file, in which the access keys and tokens needed for a User to access the Twitter API are stated.
@@ -40,7 +40,8 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - the language in which the tweet was posted
 
 ## Future use
-This tool was able to run in November 2022, but cannot be guaranteed to be compatible with Twitter systems in the future.
+This tool was able to run in November 2022, but cannot be guaranteed to be compatible with Twitter systems in the future. However sor several Twitter Users, the tweets extracted did not stretch until the beginning of the COVID-19 Pandemic as a result of the Twitter API's limits (~3200 tweets)[^3]. 
 
-[^1]: Roesslein, J. (2020). Tweepy: Twitter for Python! https://github.com/Tweepy/Tweepy
-[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). An integrated national scale SARS-CoV-2 genomic surveillance network. The Lancet Microbe, 1(03), e99–e100. https://doi.org/10.1016/s2666-5247(20)30054-9  
+[^1]: Roesslein, J. (2020). Tweepy: Twitter for Python! available at: https://github.com/Tweepy/Tweepy
+[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). An integrated national scale SARS-CoV-2 genomic surveillance network. The Lancet Microbe, 1(03), e99–e100. available at: https://doi.org/10.1016/s2666-5247(20)30054-9
+[^3]: Python Twitter Guide, Twitter policies (2022) available at: https://python-twitter-guide.netlify.app/policies/#rate-limits
