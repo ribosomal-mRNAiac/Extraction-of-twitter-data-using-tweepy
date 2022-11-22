@@ -42,6 +42,6 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 ## Future use
 This tool was able to run in November 2022, but cannot be guaranteed to be compatible with Twitter systems in the future. However sor several Twitter Users, the tweets extracted did not stretch until the beginning of the COVID-19 Pandemic as a result of the Twitter API's limits (~3200 tweets)[^3]. 
 
-[^1]: Roesslein, J. (2020). Tweepy: Twitter for Python! available at: https://github.com/Tweepy/Tweepy
-[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). An integrated national scale SARS-CoV-2 genomic surveillance network. The Lancet Microbe, 1(03), e99–e100. available at: https://doi.org/10.1016/s2666-5247(20)30054-9
-[^3]: Python Twitter Guide, Twitter policies (2022) available at: https://python-twitter-guide.netlify.app/policies/#rate-limits
+[^1]: Roesslein, J. (2020). *Tweepy: Twitter for Python!* available at: https://github.com/Tweepy/Tweepy
+[^2]: The COVID-19 Genomics UK (COG-UK) consortium. (2020). *An integrated national scale SARS-CoV-2 genomic surveillance network.* **The Lancet Microbe**, 1(03), e99–e100. available at: https://doi.org/10.1016/s2666-5247(20)30054-9
+[^3]: Python Twitter Guide. (2022). *Twitter policies.* available at: https://python-twitter-guide.netlify.app/policies/#rate-limits
