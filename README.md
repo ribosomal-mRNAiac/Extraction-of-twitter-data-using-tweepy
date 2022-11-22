@@ -42,7 +42,7 @@ Attributes from the tweet status items outputted by the tweepy command are compi
 - the language in which the tweet was posted
 
 ## Limitations
-For several Twitter Users, the tweets extracted did not stretch until the beginning of the COVID-19 Pandemic as a result of the Twitter API's limits (~3200 tweets)[^3]. 
+For several Twitter Users, the tweets extracted did not stretch until the beginning of the COVID-19 Pandemic, due to limits on the Twitter API (~3200 tweets)[^3]. 
 
 ## Future use
 This tool was able to run in November 2022, but cannot be guaranteed to be compatible with Twitter systems in the future. 
